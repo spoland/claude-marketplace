@@ -9,7 +9,7 @@
       "name": "model-selector",
       "source": "./plugins/model-selector",
       "description": "Recommends the optimal Claude model and effort level based on task complexity",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }
