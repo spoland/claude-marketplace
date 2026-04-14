@@ -94,4 +94,4 @@ If already on the correct model and effort, confirm and proceed immediately.
 - Default to Sonnet when uncertain — it covers the widest range well
 - Never recommend Opus for tasks that are clearly Haiku or Sonnet scope
 - Models can be switched mid-session with `/model <alias>` — no restart needed
-- After giving the recommendation, proceed immediately
+- After giving the recommendation, **stop and wait for the user to respond** before proceeding — do not continue with the task until the user confirms or replies
