@@ -1,4 +1,4 @@
-# spoland-claude-marketplace
+# claude-marketplace
 
 Personal Claude Code plugin marketplace.
 
@@ -24,7 +24,7 @@ Add to `~/.claude/settings.json`:
     "stephen-claude-marketplace": {
       "source": {
         "source": "github",
-        "repo": "spoland/spoland-claude-marketplace"
+        "repo": "spoland/claude-marketplace"
       }
     }
   }
