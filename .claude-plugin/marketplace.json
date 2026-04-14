@@ -10,12 +10,6 @@
       "source": "./plugins/model-selector",
       "description": "Recommends the optimal Claude model and effort level based on task complexity",
       "version": "1.0.0"
-    },
-    {
-      "name": "context-advisor",
-      "source": "./plugins/context-advisor",
-      "description": "Prompts with context management advice after each task to reduce token costs",
-      "version": "1.0.0"
     }
   ]
 }
