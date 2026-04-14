@@ -24,7 +24,7 @@ Add to `~/.claude/settings.json`:
     "stephen-claude-marketplace": {
       "source": {
         "source": "github",
-        "repo": "YOUR_GITHUB_USERNAME/spoland-claude-marketplace"
+        "repo": "spoland/spoland-claude-marketplace"
       }
     }
   }
