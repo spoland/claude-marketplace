@@ -1,0 +1,10 @@
+{
+  "name": "model-selector",
+  "description": "Recommends the optimal Claude model and effort level based on task complexity",
+  "version": "1.0.0",
+  "author": {
+    "name": "Stephen Poland"
+  },
+  "license": "MIT",
+  "keywords": ["model-selection", "cost-optimisation", "workflow", "productivity"]
+}
