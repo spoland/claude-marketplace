@@ -14,8 +14,8 @@ recommends:
 ## Installation
 
 ```
-/plugin marketplace add YOUR_GITHUB_USERNAME/stephen-claude-marketplace
-/plugin install model-selector@stephen-claude-marketplace --scope user
+/plugin marketplace add spoland/claude-marketplace
+/plugin install model-selector@claude-marketplace --scope user
 ```
 
 ## Usage
