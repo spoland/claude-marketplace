@@ -5,7 +5,7 @@ Personal Claude Code plugin marketplace.
 ## Install
 
 ```
-/plugin marketplace add YOUR_GITHUB_USERNAME/stephen-claude-marketplace
+/plugin marketplace add spoland/claude-marketplace
 ```
 
 ## Plugins
@@ -21,7 +21,7 @@ Add to `~/.claude/settings.json`:
 ```json
 {
   "extraKnownMarketplaces": {
-    "stephen-claude-marketplace": {
+    "claude-marketplace": {
       "source": {
         "source": "github",
         "repo": "spoland/claude-marketplace"
