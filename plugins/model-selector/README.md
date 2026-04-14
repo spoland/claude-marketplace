@@ -20,9 +20,9 @@ recommends:
 
 ## Usage
 
-The skill triggers automatically when you start a new task. You can also
-invoke it explicitly by asking "which model should I use for this?" or
-describing your task.
+Invoke the skill explicitly by asking "which model should I use for this?" or
+by asking to use the most appropriate model for a task. You can also run
+`/skill model-selector:model-selector` to trigger it on demand.
 
 ## Model guidance summary
 
