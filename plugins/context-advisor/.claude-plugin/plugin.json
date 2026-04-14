@@ -1,0 +1,10 @@
+{
+  "name": "context-advisor",
+  "description": "Monitors context size and prompts with actionable suggestions after each task — when to /clear, /compact, or continue",
+  "version": "1.0.0",
+  "author": {
+    "name": "Stephen Poland"
+  },
+  "license": "MIT",
+  "keywords": ["cost-optimisation", "context", "productivity", "workflow"]
+}
